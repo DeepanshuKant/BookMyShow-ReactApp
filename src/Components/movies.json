@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "imgurl": "../Img4.jpg",
+        "title": "Toy Story",
+        "actor": "Woody"
+    },
+    {
+        "id": 2,
+        "imgurl": "https://m.media-amazon.com/images/M/MV5BYzQ0ZWIxZjAtYWI3Yy00MGM0LWFjOGYtNzcyYThiOTA3ODI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "title": "Kunf Fu panda",
+        "actor": "Po"
+    },
+    {
+        "id": 3,
+        "imgurl": "http://www.indicine.com/img/2016/04/Sultan-Poster-740x1036.jpg",
+        "title": "Sultan",
+        "actor": "Salman Khan"
+    },
+    {
+        "id": 4,
+        "imgurl": "https://m.media-amazon.com/images/M/MV5BZjdmZDlkMzItNTg0OS00MjAxLWE0ZTQtZjdhOWM1MTJkOTc0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+        "title": "Run",
+        "actor": "Katherine"
+    },
+    {
+        "id": 5,
+        "imgurl": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_.jpg",
+        "title": "Annihilation",
+        "actor": "Natalie Portman"
+    }
+]

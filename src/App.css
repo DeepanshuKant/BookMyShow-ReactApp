@@ -1,0 +1,20 @@
+.Img__Sizing{
+  width: 100%;
+  margin: auto;
+  height: 400px;
+  object-fit: fill;
+}
+.carousel-control-prev-icon{
+  background-color: gray;
+  border-radius: 5px;
+}
+.carousel-control-next-icon{
+  background-color: gray;
+  border-radius: 5px;
+}
+.col__styling{
+  color: white;
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
