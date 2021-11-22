@@ -11,13 +11,12 @@ function AllMoviesMongo() {
     const [data, setData] = useState([]);
     useEffect(async () => {
         try {
-            const response = await axios.get('http://localhost:4000/movies');
+            const response = await axios.get('https://bms-backend-deepanshu.herokuapp.com/movies');
             console.log(response);
             setData(response.data);
         } catch (error) {
             console.error(error);
         }
-
     }, []);
     return (
         <div>
